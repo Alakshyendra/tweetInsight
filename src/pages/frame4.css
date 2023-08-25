@@ -1,0 +1,163 @@
+.tweetinsight4 {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 107px;
+}
+.tweetinsight-wrapper1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-23xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  color: var(--color-white);
+}
+.about9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+}
+.about8 {
+  top: 30px;
+  left: 1114px;
+  width: 45px;
+  height: 19px;
+}
+.about8,
+.frame20,
+.home8 {
+  position: absolute;
+}
+.home8 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 30px;
+  left: 981px;
+  width: 44px;
+  height: 19px;
+  color: inherit;
+}
+.frame20 {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 79px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+  font-family: var(--font-exo-2);
+}
+.analysis-the-tweets4 {
+  position: relative;
+  letter-spacing: 0.03em;
+  display: inline-block;
+  width: 322px;
+  height: 26px;
+  flex-shrink: 0;
+}
+.frame22 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.fasdf {
+  margin: 0;
+}
+.hasdfkjhalsdhflhakjslhfdhasdhf {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.03em;
+}
+.frame25 {
+  position: absolute;
+  top: 24px;
+  left: 0;
+  width: 322px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.rectangle-div {
+  position: relative;
+  border-radius: 50px;
+  background-color: var(--color-black);
+  width: 290px;
+  height: 290px;
+}
+.twitter-logo-removebg-preview-icon2 {
+  position: relative;
+  width: 294px;
+  height: 284px;
+  object-fit: cover;
+  margin-left: -278px;
+}
+.frame24,
+.frame26 {
+  height: 290px;
+  overflow: hidden;
+}
+.frame26 {
+  position: absolute;
+  top: 0;
+  left: 872px;
+  width: 306px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.frame24 {
+  align-self: stretch;
+  position: relative;
+  flex-shrink: 0;
+}
+.frame21,
+.frame23 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.frame23 {
+  align-self: stretch;
+  align-items: flex-end;
+  justify-content: center;
+  text-align: center;
+}
+.frame21 {
+  position: absolute;
+  top: 183px;
+  left: 45px;
+  width: 1190px;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 94px;
+}
+.frame-container {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xl);
+  color: var(--color-black);
+  font-family: var(--font-exo-2);
+}

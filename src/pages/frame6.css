@@ -1,0 +1,154 @@
+.tweetinsight6 {
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 107px;
+}
+.tweetinsight-wrapper3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-23xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  color: var(--color-white);
+}
+.about16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+}
+.about15,
+.home15 {
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  height: 19px;
+  color: inherit;
+}
+.about15 {
+  cursor: pointer;
+  left: 1114px;
+  width: 45px;
+}
+.home15 {
+  left: 981px;
+  width: 44px;
+}
+.frame30 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 79px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+  font-family: var(--font-exo-2);
+}
+.twitter-logo-removebg-preview-icon4 {
+  position: relative;
+  width: 165px;
+  height: 146px;
+  object-fit: cover;
+}
+.analysis-the-tweets6 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.03em;
+}
+.frame32 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.analyse-the-tweet {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  font-family: var(--font-exo-2);
+  color: var(--color-black);
+  text-align: left;
+}
+.analyse-the-tweet-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lg) 94px;
+  background-color: var(--color-white);
+  border-radius: var(--br-11xl);
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.analyse-the-csv2 {
+  position: relative;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.03em;
+  font-family: var(--font-exo-2);
+  color: var(--color-black);
+  text-align: left;
+}
+.analyse-the-csv-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 16px 0;
+  background-color: var(--color-white);
+  border-radius: var(--br-11xl);
+  width: 370px;
+  height: 62px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame31,
+.frame33 {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.frame33 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.frame31 {
+  position: absolute;
+  top: 136px;
+  left: 109px;
+  width: 1062px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-131xl);
+}
+.frame-parent1 {
+  position: relative;
+  background: linear-gradient(#000, #000), #fff;
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-exo-2);
+}

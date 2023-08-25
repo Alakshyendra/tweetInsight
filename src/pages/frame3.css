@@ -1,0 +1,192 @@
+.tweetinsight3 {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 107px;
+}
+.about7,
+.frame-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.frame-div {
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-23xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  color: var(--color-white);
+}
+.about7 {
+  letter-spacing: 0.03em;
+}
+.about6 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 30px;
+  left: 1114px;
+  width: 45px;
+  height: 19px;
+  color: inherit;
+}
+.about6,
+.frame15,
+.home6 {
+  position: absolute;
+}
+.home6 {
+  cursor: pointer;
+  text-decoration: none;
+  top: 30px;
+  left: 981px;
+  width: 44px;
+  height: 19px;
+  color: inherit;
+}
+.frame15 {
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 79px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+  font-family: var(--font-exo-2);
+}
+.twitter-logo-removebg-preview-icon1 {
+  position: relative;
+  width: 165px;
+  height: 146px;
+  object-fit: cover;
+}
+.analysis-the-tweets3 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.03em;
+}
+.frame17 {
+  align-self: stretch;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.frame-input,
+.rectangle-button {
+  border: 0;
+  border-radius: var(--br-11xl);
+}
+.frame-input {
+  font-family: var(--font-exo-2);
+  font-size: var(--font-size-2xl);
+  background-color: var(--color-white);
+  width: 841px;
+  height: 218px;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-smi) var(--padding-8xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.rectangle-button {
+  cursor: pointer;
+  padding: 0;
+  background-color: var(--color-cornflowerblue);
+  position: absolute;
+  top: 10px;
+  left: 193px;
+  width: 177px;
+  height: 62px;
+}
+.analyse2 {
+  position: absolute;
+  top: 31px;
+  left: calc(50% + 64px);
+  letter-spacing: 0.03em;
+  font-weight: 600;
+}
+.rectangle-container {
+  position: relative;
+  width: 370px;
+  height: 62px;
+  z-index: 1;
+}
+.frame19,
+.summarise {
+  position: absolute;
+  margin: 0 !important;
+}
+.frame19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-cornflowerblue);
+  top: 146px;
+  left: 885px;
+  border-radius: 24px;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+  width: 177px;
+  height: 62px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.summarise {
+  top: 167px;
+  left: 928px;
+  letter-spacing: 0.03em;
+  font-weight: 600;
+  z-index: 3;
+}
+.frame16,
+.frame18 {
+  overflow: hidden;
+  display: flex;
+}
+.frame18 {
+  align-self: stretch;
+  height: 243px;
+  flex-shrink: 0;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-mid);
+}
+.frame16 {
+  position: absolute;
+  top: 115px;
+  left: 89px;
+  width: 1062px;
+  height: 610px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-131xl);
+}
+.frame-wrapper {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-exo-2);
+}

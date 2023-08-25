@@ -1,0 +1,120 @@
+.tweetinsight5 {
+  cursor: pointer;
+  text-decoration: none;
+  position: relative;
+  letter-spacing: 0.03em;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 107px;
+}
+.tweetinsight-wrapper2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-black);
+  width: 1280px;
+  height: 79px;
+  display: flex;
+  flex-direction: column;
+  padding: 0 var(--padding-23xl);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: center;
+  color: var(--color-white);
+}
+.about14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.03em;
+}
+.about13,
+.home13 {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 30px;
+  left: 1114px;
+  width: 45px;
+  height: 19px;
+  color: inherit;
+}
+.home13 {
+  left: 981px;
+  width: 44px;
+}
+.frame27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 79px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+  font-family: var(--font-exo-2);
+}
+.twitter-logo-removebg-preview-icon3 {
+  position: relative;
+  width: 165px;
+  height: 146px;
+  object-fit: cover;
+}
+.analysis-the-tweets5 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.03em;
+}
+.frame28 {
+  position: absolute;
+  top: 136px;
+  left: 109px;
+  width: 1062px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+}
+.frame-child7,
+.frame29 {
+  display: flex;
+  align-items: flex-start;
+}
+.frame-child7 {
+  border: 0;
+  font-family: var(--font-exo-2);
+  font-size: var(--font-size-2xl);
+  background-color: var(--color-white);
+  border-radius: var(--br-11xl);
+  width: 872px;
+  height: 218px;
+  flex-direction: column;
+  padding: var(--padding-smi) var(--padding-8xl);
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+.frame29 {
+  position: absolute;
+  top: 503px;
+  left: 109px;
+  width: 1062px;
+  height: 243px;
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.frame-frame {
+  position: relative;
+  background-color: var(--color-black);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-2xl);
+  color: var(--color-white);
+  font-family: var(--font-exo-2);
+}
